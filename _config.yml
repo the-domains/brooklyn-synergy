@@ -22,8 +22,8 @@ color:
     - '#202020'
     - '#126f40'
     - '#d3c0dc'
-  brandStrength: 0.7620611276943237
+  brandStrength: 1
   lightness: 0.925463976804167
   saturation: 0.2681522585917264
-  rhythmicContrast: 0.8674957789480686
+  rhythmicContrast: 1
 purpose: []
